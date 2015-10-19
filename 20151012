@@ -1,0 +1,47 @@
+GIC Meeting Minutes
+
+Introductions
+- 9 people for first meeting
+
+Decision on engine and style
+- Decided to start with a 2D unity game
+
+Decide to meet up this friday at 4:30 - 7:30 to work on first game
+
+First Game
+- First ideas include a twin stick shooter, tower defense, or a Final Fantasy-type RPG
+- Can always come back to older ideas
+
+After we get a bit better, we could also develop a game to be played at PLAN.
+- AI Exercise  
+
+Basic Tutorials
+- Website’s Basic Unity Tutorials (unity3d.com/learn/tutorials)
+- Eteeski’s tutorials (https://www.youtube.com/user/ETeeskiTutorials)
+
+Tentative date in April for BonzAI brawl
+- AI challenge sponsored by MIT
+- Hosted at WMU by Dr. Carr
+
+How should we split up / collaborate on development?
+- Git might not work for models / art 
+- Unity has some tutorials on using git
+
+Future Games to play together
+- Rocket League
+- Minecraft / Modded Minecraft off of Jazz (possible mod as future project?)
+
+“We’re not trying to make the best game, but we would like to make it fun.”
+
+Decided to forgo the poll and focus on a tower defense game, simple game to get out in two weeks. 
+
+Tower Defense Teams
+Break up the work into teams
+- Tower Team, Creep team, Art team, UI Team 
+- Art team headed up by Jake
+- UI Team to handle waves, currency, lives 
+- Tower team headed up by Joseph
+- Creep team headed up by Pollo
+- UI Team headed up by Moses
+- Jake will integrate the separate builds and create the initial game setup
+- Someone should also see about putting in sound effects 
